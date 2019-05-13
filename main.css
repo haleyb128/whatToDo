@@ -1,0 +1,15 @@
+.alert-trim{
+    max-width: 400px;
+    min-width: 200px;
+}
+body{
+    padding-top: 20px;
+    background-image: url(./images/pencil.jpg);
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    background-attachment: fixed;
+}
+
+/* .bottom-half{
+    background-color: rgba(255, 255, 255, 0.438);
+} */

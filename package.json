@@ -1,0 +1,22 @@
+{
+  "name": "whattodo",
+  "version": "1.0.0",
+  "description": "an app to keep track of things you need to do",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haleyb128/whatToDo.git"
+  },
+  "author": "Haley Belden",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haleyb128/whatToDo/issues"
+  },
+  "homepage": "https://github.com/haleyb128/whatToDo#readme",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
